@@ -1,0 +1,9 @@
+# OpenAI API Key (必須)
+OPENAI_API_KEY=your_openai_api_key_here
+
+# NIH Email (PubMed API用、推奨)
+NIH_EMAIL=your_email@example.com
+
+
+
+
